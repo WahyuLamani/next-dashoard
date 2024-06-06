@@ -1,7 +1,5 @@
-import React from 'react'
+import React from 'react';
 
 export default function Page() {
-  return (
-    <div>Dashboard invoices</div>
-  )
+  return <div>Dashboard invoices</div>;
 }
